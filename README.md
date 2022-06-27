@@ -1,4 +1,4 @@
-Hi 👋 My name is Misgnaw Meseret
+Hi 👋 My name is Misagnaw Meseret
 ================================
 
 Web Developer and Designer
