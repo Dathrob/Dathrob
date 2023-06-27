@@ -8,7 +8,7 @@ I am eager to learn new technologies.
 
 * 🌍  I'm based in Addis Ababa
 * ✉️  You can contact me at [dev.misganaw.meseret@gmail.com](mailto:dev.misganaw.meseret@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Angular,Laravel and .Net
 
 
 ### Skills
